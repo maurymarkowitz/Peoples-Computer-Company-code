@@ -1,0 +1,52 @@
+1      EDUMP = 2
+2      DEFINE('NOUN()')   : DEFINE('VERB()')
+4      DEFINE('PPHR()')   : DEGINE ('RAND(Z)')
+6      DEFINE('ADJECTIVE()')
+7 *    NN = ARRAY(85)
+8      BB = BREAK(' ')    : NO = 1
+10      TOTAL=50           : N = 1
+12 FILL   NN<N> = TRIM(INPUT)
+13        N  = LT(N,85) N + 1             :S(FILL)
+14 START  X = ''           ; Y = ''
+16        STORAGE = ''     ; LIMIT = 1
+18        LINE = ''        ; LIM = 1
+20 A1   XP = RAND(10)
+21 PX1  CHOICE = 'THE ' NOUN() ' '        :(A)
+22 PX2  CHOICE = 'THE ' NN<RAND(25)> ' '
+   .    VERB() ' ' PPHR() ' '             :(A)
+24 PX3  CHOICE = 'THE ' NN<RAND(25)>
+   .    'LIKE ' NOUN() ' '                :(A)
+25 PX5  CHOICE = 'LIKE THE ' NOUN() ' '   :(A)
+26 PX6  CHOICE = 'THE ' NN<RAND(25)> "'S "
+   .    NOUN() ' '                        :(A)
+27 PX6  CHOICE = VERB() ' '               :(A)
+28 PX7  CHOICE = VERB() ' ' PPHP() ' '    :(A)
+29 PX8  CHOICE = VERB) ' AND ' VERB() ' '   :(A)
+30 PX9  CHOICE = 'BECOMES '               :(A)
+31 PX10 CHOICE = 'IS ' PPHN() ' ''        :(A)
+32 A    STORAGE = STORAGE CHOICE
+33      LIMIT = LT(LIMIT,3) LIMIT + 1     :S(A1)
+34      MIN = RAND(3)      : MAX = MIN + RAND(3) - 1
+36      OUTPUT = '' : OUTPUT = '' : OUTPUT = ''
+39      OUTPUT = '               ' NO
+40      OUTPUT = ''
+41 A1   STORAGE BB . WORD LEN(1) REM . STORAGE
+42      LINE = LINE ' ' WORD
+43      IDENT(STORAGE,'')                 :S(A3)
+44      LIM = LT(LINE,MAX) LIM + 1        :S(A2)
+45 A3   OUTPUT = '                ' LINE
+46      LINE = ''
+47      LIM = DIFFER(STORAGE,'') ""       :S(A2)
+48      NO = LT(NO,TOTAL) NO + 1          :S(START)F(END)
+49 NOUN X = ''
+51      X = EQ(RAND(3),2) ADJECTIVE() ''
+52      Y = EQ(RAND(7),3) ' ' PPHP() ' '
+53      NOUN = X NN<RAND(25)>             :(RETURN)
+54 ADJECTIVE ADJECTIVE = NN<25 + RAND(25)> :(RETURN)
+55 VERB VERB = NN<50 + RAND(25)>          :(RETURN)
+56 PPHP PPHP = NN<75 + RAND(10)> ' THE '
+        NOUN()                            :(RETURN)
+57 RAND R = R * 1061 + 3251
+58      R RTAB(5) =
+59      RAND - ((R * Z) / 100000) + 1     :(RETURN
+60 END
