@@ -1,7 +1,7 @@
 BASIC programs from the People's Computer Company
 =================================================
 
-This folder contains the BASIC programs found in the PCC magazines. Only complete programs are included, short example code and snippets, like those in the Programmer's Toolbox columns, are not included. Most of the programs that appeared in PCC, especially in earlier editions, were either in the HP 2100 dialect or DEC BASIC from the EduSystem 20. These can be run using [RetroBASIC](https://github.com/maurymarkowitz/RetroBASIC).
+This folder contains the programs found in the PCC magazines. Only complete programs are included, short example code and snippets, like those in the Programmer's Toolbox columns, are not included. Most of the programs that appeared in PCC, especially in earlier editions, were either in the HP 2100 dialect or DEC BASIC from the EduSystem 20. These can be run using [RetroBASIC](https://github.com/maurymarkowitz/RetroBASIC). There is also one SNOBOL program and two in PILOT.
 
 The programs are copied as close to their original format as possible, including odd whitespace and the use of square brackets in arrays. There are some things that will look like whitespace typos, but these are in the original code. The print quality of the magazine was highly variable, which may have introduced subtle bugs. This is further confused by the printer font which used a bar across the O instead of 0 as is common today, which then switched in later editions, and 1's that look like both L and I.
 
@@ -79,19 +79,24 @@ p. 27 landscape - draws a simple landscape, Datapoint
 
 ##V3N1 [September 1974](https://archive.org/details/1974-09-peoples-computer-company)
 
-No new programs, but starting with this issue they began re-printing older games. These contain modifications, in some cases minor, which are recreated here.
+No new programs, but starting with this issue they began re-printing older games. These contain modifications, relatively minor in many cases and often limited to renumbering a REMs, but enough to justify putting the new versions here.
 
-p. 24 number, bagels, letter, trap and stars - trap was described in v1n3, but not listed
-p. 25 snark, hurkle and mugwump
+p. 24 number - from V1N1
+p. 24 bagels - from V1N2
+p. 24 letter - from V1N2
+p. 24 trap - from V1N3, but that was only the description
+p. 24 stars - from V1N2
+p. 25 snark - from V2N5, but that was only the description
+p. 25 hurkle - from V1N4
+p. 25 mugwump - from V1N4
 
-##V3N2 November 1974
+##V3N2 [November 1974](https://archive.org/details/1974-11-peoples-computer-company)
 
-p. 02 Two pages of pictures of kids playing games at PCCenter
-p. 04 Huntington Project workshops. Descriptions of games & simulations
-p. 06 Biosin (Biorhythm program from Lawrence Hall of Science). BASIC listing and sample run.
-p. 12 Bulls & Cleots by D. Austin Stephens & Stephen Bates. BASIC listing and sample run.
-p. 16 Inchworm by me
-p. 25 BASIC listings of games: Reverse, Chomp, and Beyond Bagels
+p. 7 biosin - prints biorhythm charts
+p. 13 bulls - game of bulls and cleots, a version of Bulls and Cows
+p. 25 reverse - from V1N5
+p. 25 chomp - from V1N3
+p. 25 beyondbagels - updated bagels
 
 ##V3N3 January 1975
 
