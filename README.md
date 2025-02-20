@@ -9,7 +9,7 @@ The programs are copied as close to their original format as possible, including
 
 The programs are organized into subfolders named for the volume and issue they appeared in. The issue list below is modified from one made by Bob Albrecht, The Dragon himself. The original list contained only the games, this has been expanded with non-game programs as well. PCC would often split articles across one or more issues, describing the game in one issue and then providing the listing in another, or vice versa. Those articles that only *described* the games and do not include source code have been removed from the following list. The original list can be found at [The PCC Games List Project](http://www.svipx.com/pcc/gameslist.html).
 
-##V1N1 [October 1972](https://archive.org/details/1972PccV1N1)
+## V1N1 [October 1972](https://archive.org/details/1972PccV1N1)
 
 p. 07 random - random numbers in BASIC
 p. 08 number - a number guessing game
@@ -17,7 +17,7 @@ p. 10 strings - demonstrates HP strings
 p. 11 substrings - demonstrates HP substring slicing
 p. 11 letter - number adapted to use strings instead of numbers
 
-##V1N2 [December 1972](https://archive.org/details/1972PccV1N2)
+## V1N2 [December 1972](https://archive.org/details/1972PccV1N2)
 
 p. 03 stars - number adapted to print stars for scoring
 p. 08 laffriot - demonstrates FOR/NEXT loops with goto
@@ -26,13 +26,13 @@ p. 16 scales - prints the frequencies for any musical scale
 p. 16 harmonics - prints harmonics for two tones
 p. 18 bagels - mastermind type number guessing game
 
-##V1N3 [February 1973](https://archive.org/details/1973-02-peoples-computer-company)
+## V1N3 [February 1973](https://archive.org/details/1973-02-peoples-computer-company)
 
 p. 09 chomp - take bites of a cookie, last bite is the loser
 p. 11 stacks - demonstrates the use of computer stacks
 p. 15 pythag - pythagorian scales - part of the music series
 
-##V1N4 [April 1973](https://archive.org/details/1973-04-peoples-computer-company)
+## V1N4 [April 1973](https://archive.org/details/1973-04-peoples-computer-company)
 
 p. 03 mugwump - find the mugwump hiding in a grid
 p. 06 tempered - produces a tempered scale - part of the music series
@@ -43,43 +43,43 @@ p. 14 pilot1 ...
 p. 15 ... and pilot2 - 2-part PILOT interpreter in HP BASIC
 p. 22 hurkle - version of mugwump using direction instead of distance
 
-##V1N5 [May 1973](https://archive.org/details/1973-05-peoples-computer-company)
+## V1N5 [May 1973](https://archive.org/details/1973-05-peoples-computer-company)
 
 p. 05 reverse - reverse a list of numbers
 p. 19 decstars - DEC version of program in V1N2
 p. 22 order - sorts a list of random numbers
 
-##V2N1 [September 1973](https://archive.org/details/1973-09-peoples-computer-company)
+## V2N1 [September 1973](https://archive.org/details/1973-09-peoples-computer-company)
 
 p. 07 taxman - math game factoring numbers - instructions in next issue p. 07
 p. 16 image and flower - simple character graphics, flower is unreadable
 
-##V2N2 [November 1973](https://archive.org/details/1973-11-peoples-computer-company)
+## V2N2 [November 1973](https://archive.org/details/1973-11-peoples-computer-company)
 
 p. 17 sunsign - prints unique patterns based on your name and sun sign
 
-##V2N3 [January 1974](https://archive.org/details/1974-01-peoples-computer-company)
+## V2N3 [January 1974](https://archive.org/details/1974-01-peoples-computer-company)
 
 No programs in this issue. p. 21 has some short snippets of code from caves.
 
-##V2N4 [March 1974](https://archive.org/details/1974-03-peoples-computer-company)
+## V2N4 [March 1974](https://archive.org/details/1974-03-peoples-computer-company)
 
 No programs in this issue.
 
-##V2N5 [May 1974](https://archive.org/details/1974-05-peoples-computer-company)
+## V2N5 [May 1974](https://archive.org/details/1974-05-peoples-computer-company)
 
 p. 08 mandala - draws character based mandalas
 p. 10 button - try to guess who is holding the button
 p. 15 abase - number guessing game
 
-##V2N6 [July 1974](https://archive.org/details/1974-07-peoples-computer-company)
+## V2N6 [July 1974](https://archive.org/details/1974-07-peoples-computer-company)
 
 p. 8 haiku - makes random haiku poems, in Datapoint 2200 dialect
 p. 19 poetry, in SNOBOL
 p. 27 paintbrush - randomly prints a chosen character on a printer to make a larger image, Datapoint
 p. 27 landscape - draws a simple landscape, Datapoint
 
-##V3N1 [September 1974](https://archive.org/details/1974-09-peoples-computer-company)
+## V3N1 [September 1974](https://archive.org/details/1974-09-peoples-computer-company)
 
 No new programs, but starting with this issue they began re-printing older games. These contain modifications, relatively minor in many cases and often limited to renumbering and REM statements, but enough to justify putting the new versions here.
 
@@ -92,7 +92,7 @@ p. 25 snark - from V2N5, but that was only the description
 p. 25 hurkle - from V1N4
 p. 25 mugwump - from V1N4
 
-##V3N2 [November 1974](https://archive.org/details/1974-11-peoples-computer-company)
+## V3N2 [November 1974](https://archive.org/details/1974-11-peoples-computer-company)
 
 p. 7 biosin - prints biorhythm charts (note sp and ws issues in original text)
 p. 13 bulls - bulls and cleots, a version of Bulls and Cows (uses lower case)
@@ -100,12 +100,12 @@ p. 25 reverse - from V1N5, no changes, not duplicated
 p. 25 chomp - from V1N3, no changes, not duplicated
 p. 25 beyond - updated bagels
 
-##V3N3 [January 1975](https://archive.org/details/1975-01-peoples-computer-company)
+## V3N3 [January 1975](https://archive.org/details/1975-01-peoples-computer-company)
 
 p. 18 bicycle - calculates bicycle speeds based on gear ratios
 p. 24 wumpus - a greatly modified version of mugwump
 
-##V3N4 [March 1975](https://archive.org/details/1975-03-peoples-computer-company)
+## V3N4 [March 1975](https://archive.org/details/1975-03-peoples-computer-company)
 
 p. 16 flipper - demonstrates how the RND function works ...
 p. 17 grinder - ... more on RND ...
@@ -113,28 +113,28 @@ p. 17 largest - ... and even more
 p. 23 name - draws a mandala based on your name, in BASIC-PLUS dialect on the PDP-11
 p. 24 biosin - from V3N2, no changes, not duplicated
 
-##V3N5 [May 1975](https://archive.org/details/1975-05-peoples-computer-company)
+## V3N5 [May 1975](https://archive.org/details/1975-05-peoples-computer-company)
 
 p. 19 proportion - more programs demonstrating the RND function
 
-##V4N1 [July 1975](https://archive.org/details/1975-07-peoples-computer-company)
+## V4N1 [July 1975](https://archive.org/details/1975-07-peoples-computer-company)
 
 p. 10 tinysin - version of biosin for the PDP-8 based EduSystem 20
 
-##V4N2 September 1975
+## V4N2 September 1975
 
 p. 06 Kingdom by Todd Voros and Lee Schneider. BASIC listing, strategies, sample runs.
 p. 10 Chomp for BASIC (Peter Lynn Sessions) & Chomp for 8008 (Phil Mork)
 p. 11 Witchy by Old Soldier. BASIC listing and sample run.
 p. 24 LIFE on the Altair by Adolph p. Stumpf. Conway's LIFE.
 
-##V4N3 November 1975
+## V4N3 November 1975
 
 p. 06 Number in Assembly Language for the 8080 (Bernard Greening)
 p. 09 Talking Calculator game by Sivasailam Thiagarajan and Harold D. Stolovitch)
 p. 21 Crossword Puzzle (Ron Santore)
 
-##V4N4 January 1976
+## V4N4 January 1976
 
 p. 08 Diddle for a Small Altair 8800 by Stan Skoglund. ML listing and sample run.
 p. 13 A Game Based on ... STAR TREK (from WTDAYHR)
@@ -144,7 +144,7 @@ p. 22 RESCUE by Mac Oglesby. BASIC listing and sample run.
 p. 25 Flying Buffalo by Rick Loomis. Descriptions of play-by-mail games and
 tabletop games such as Dungeons & Dragons
 
-##V4N5 March-April 1976
+## V4N5 March-April 1976
 
 p. 02 Star Trek - a 2 TTY Game by Philip Tubb (description)
 p. 05 Games with the Pocket Calculator by Sivasailam Thiagarajn & Harold D.
@@ -154,19 +154,19 @@ p. 08 DODGEM by Mac Oglesby. BASIC listing and sample run.
 p. 11 Good Gaming. Descriptions of role-playing and board games: Dungeons & Dragons, Tunnels & Trolls, Stellar Conquest, and Empire of the Petal Throne
 p. 14 SQUARE by Mac Oglesby. BASIC listing and sample run.
 
-##V4N6 May 1976
+## V4N6 May 1976
 
 p. 06 Star Trek by Bill Crow. Description of his game.
 p. 17 POUNCE by Mac Oglesby. BASIC listing and sample run.
 
-##V5N1 July 1976
+## V5N1 July 1976
 
 p. 20 SINNERS by Mac Oglesby. BASIC listing and sample run.
 p. 23 Tiny Trek: Trek for Your 8K Altair
 p. 31 A Musical Number Guessing Game by Kurt Inman (machine language Altair
 8800)
 
-##V5N2 September 1976
+## V5N2 September 1976
 
 p. 02 Star Trek (six pages of stuff sent by readers, edited by Mellow Flash)
 p. 08 But It's Fun, But It's Educational: Computer Games in the Classroom by Joanne Koltnow Verplank
@@ -176,20 +176,20 @@ p. 20 Dungeons & Dragons by Steve Jackson. Description, information, ...
 p. 30 Crossword Puzzle by Frank Armbruster
 p. 31 Hats by Frank Armbruster. BASIC listing and sample run.
 
-##V5N3 November-December 1976
+## V5N3 November-December 1976
 
 p. 08 Story, Snake, and PACK1 by Joanne Koltnow Verplank (games at CCC)
 p. 13 Games for You to Program by the Dragon (variations of Number)
 p. 16 FROGS by Mac Ogelsby. BASIC listing and sample run.
 p. 32 Crossword Puzzle by Frank Armbruster
 
-##V5N4 January-February 1977
+## V5N4 January-February 1977
 
 p. 17 reverse - reprinted from V1N5, source in that folder
 p. 18 Games for You to Program by the Dragon. (variations of Reverse)
 p. 26 Mastermind - a Game of Logic by Jesse Heines & Gay Rosser. BASIC listing and sample run.
 
-##V5N5 March-April 1977 Last issue as PCC newspaper
+## V5N5 March-April 1977 Last issue as PCC newspaper
 
 p. 34 Games for You to Program by the Dragon (animated Reverse)
 p. 35 The Yes-No Game by Carl Main. BASIC listing and sample run.
