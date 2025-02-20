@@ -1,11 +1,13 @@
 BASIC programs from the People's Computer Company
 =================================================
 
-This folder contains the programs found in the PCC magazines. Only complete programs are included, short example code and snippets, like those in the Programmer's Toolbox columns, are not included. Most of the programs that appeared in PCC, especially in earlier editions, were either in the HP 2100 dialect or DEC BASIC from the EduSystem 20. These can be run using [RetroBASIC](https://github.com/maurymarkowitz/RetroBASIC). There is also one SNOBOL program and two in PILOT.
+This folder contains the programs found in the People's Computer Company magazines. Only complete programs are included, short example code and snippets, like those in the Programmer's Toolbox columns, are not included.
 
-The programs are copied as close to their original format as possible, including odd whitespace and the use of square brackets in arrays. There are some things that will look like whitespace typos, but these are in the original code. The print quality of the magazine was highly variable, which may have introduced subtle bugs. This is further confused by the printer font which used a bar across the O instead of 0 as is common today, which then switched in later editions, and 1's that look like both L and I.
+Most of the programs that appeared in PCC, especially in earlier editions, were in the HP 2100 dialect. These can be run using [RetroBASIC](https://github.com/maurymarkowitz/RetroBASIC). There are a small number in various  DEC dialects, which also run in RetroBASIC. A number are for the Datapoint 2200, which is so non-standard that nothing else will run it. There is also one SNOBOL program and two in PILOT. The few assembly programs have not been included.
 
-The programs are organized into subfolders named for the volume and issue they appeared in. The issue list below is modified from one made by Bob Albrecht, The Dragon himself. The original list contained only the games, this has been expanded with any other non-game programs. PCC would often split articles across one or more issues, often describing the game in one issue and then providing the listing in another, or vice versa. Those articles that only *described* the games and do not include source code have been removed from the following list. The original list can be found at [The PCC Games List Project](http://www.svipx.com/pcc/gameslist.html).
+The programs are copied as close to their original format as possible, including odd whitespace and the use of square brackets for arrays. There are some things that will look like whitespace typos, but these are in the original code. The print quality of the magazine was highly variable, which may have introduced subtle bugs. This is further confused by the printer font which used a bar across the O instead of 0 as is common today, which then switched that after a couple of issues. There are 1's that look like both L and I, and many issues related to the low quality printing of the newsletter itself.
+
+The programs are organized into subfolders named for the volume and issue they appeared in. The issue list below is modified from one made by Bob Albrecht, The Dragon himself. The original list contained only the games, this has been expanded with non-game programs as well. PCC would often split articles across one or more issues, describing the game in one issue and then providing the listing in another, or vice versa. Those articles that only *described* the games and do not include source code have been removed from the following list. The original list can be found at [The PCC Games List Project](http://www.svipx.com/pcc/gameslist.html).
 
 ##V1N1 [October 1972](https://archive.org/details/1972PccV1N1)
 
@@ -17,9 +19,9 @@ p. 11 letter - number adapted to use strings instead of numbers
 
 ##V1N2 [December 1972](https://archive.org/details/1972PccV1N2)
 
-p. 03 stars - number adapted to print stars
-p. 08 laff riot - demonstrates FOR/NEXT loops with goto
-p. 15 overtones - prints a list of musical overtones - start of a series of music programs
+p. 03 stars - number adapted to print stars for scoring
+p. 08 laffriot - demonstrates FOR/NEXT loops with goto
+p. 15 overtones - prints a list of musical overtones
 p. 16 scales - prints the frequencies for any musical scale
 p. 16 harmonics - prints harmonics for two tones
 p. 18 bagels - mastermind type number guessing game
@@ -38,7 +40,7 @@ p. 07 seven tone - prints a list of seven tone scales
 p. 11 go - simple word game in PILOT
 p. 11 rooms - hide and seek game in PILOT
 p. 14 pilot1 ...
-p. 15 and pilot2 - 2-part PILOT interpreter in HP BASIC
+p. 15 ... and pilot2 - 2-part PILOT interpreter in HP BASIC
 p. 22 hurkle - version of mugwump using direction instead of distance
 
 ##V1N5 [May 1973](https://archive.org/details/1973-05-peoples-computer-company)
@@ -79,7 +81,7 @@ p. 27 landscape - draws a simple landscape, Datapoint
 
 ##V3N1 [September 1974](https://archive.org/details/1974-09-peoples-computer-company)
 
-No new programs, but starting with this issue they began re-printing older games. These contain modifications, relatively minor in many cases and often limited to renumbering a REMs, but enough to justify putting the new versions here.
+No new programs, but starting with this issue they began re-printing older games. These contain modifications, relatively minor in many cases and often limited to renumbering and REM statements, but enough to justify putting the new versions here.
 
 p. 24 number - from V1N1
 p. 24 bagels - from V1N2
@@ -92,39 +94,32 @@ p. 25 mugwump - from V1N4
 
 ##V3N2 [November 1974](https://archive.org/details/1974-11-peoples-computer-company)
 
-p. 7 biosin - prints biorhythm charts
-p. 13 bulls - game of bulls and cleots, a version of Bulls and Cows
-p. 25 reverse - from V1N5
-p. 25 chomp - from V1N3
-p. 25 beyondbagels - updated bagels
+p. 7 biosin - prints biorhythm charts (note sp and ws issues in original text)
+p. 13 bulls - bulls and cleots, a version of Bulls and Cows (uses lower case)
+p. 25 reverse - from V1N5, no changes, not duplicated
+p. 25 chomp - from V1N3, no changes, not duplicated
+p. 25 beyond - updated bagels
 
-##V3N3 January 1975
+##V3N3 [January 1975](https://archive.org/details/1975-01-peoples-computer-company)
 
-p. 07 Computer Games of Language and Logic
-p. 14 Two pages of kids playing games at PCCenter
-p. 21 Friends of Inchworm (stuff sent by kids)
-p. 24 BASIC listing of Wumpus
-p. 26 Excerpts from Games, Tricks, and Puzzles (book by Wallace Judd)
+p. 18 bicycle - calculates bicycle speeds based on gear ratios
+p. 24 wumpus - a greatly modified version of mugwump
 
-##V3N4 March 1975
+##V3N4 [March 1975](https://archive.org/details/1975-03-peoples-computer-company)
 
-p. 14 Cover and table of contents for What to Do After You Hit Return
-p. 16 The Mysterious and Unpredictable RND by me
-p. 18 Inchworm (stuff sent by kids)
-p. 24 BASIC listing of Biosin
+p. 16 flipper - demonstrates how the RND function works ...
+p. 17 grinder - ... more on RND ...
+p. 17 largest - ... and even more
+p. 23 name - draws a mandala based on your name, in BASIC-PLUS dialect on the PDP-11
+p. 24 biosin - from V3N2, no changes, not duplicated
 
-##V3N5 May 1975
+##V3N5 [May 1975](https://archive.org/details/1975-05-peoples-computer-company)
 
-p. 14 Bagels exercises, strategies, variations
-p. 18 Qubic strategy
-p. 20 The Mysterious and Unpredictable RND by me
-p. 21 Excerpts from The New Games Newsletter
+p. 19 proportion - more programs demonstrating the RND function
 
-##V4N1 July 1975
+##V4N1 [July 1975](https://archive.org/details/1975-07-peoples-computer-company)
 
-p. 10 Biosin for a Tiny Edusytem by Old Soldier. BASIC listing and sample run.
-p. 13 The Mysterious and Unpredictable RND - Interlude (by Gordon French)
-p. 15 Think of a Number (calculator game by Sivasailam Thiagarajan)
+p. 10 tinysin - version of biosin for the PDP-8 based EduSystem 20
 
 ##V4N2 September 1975
 
