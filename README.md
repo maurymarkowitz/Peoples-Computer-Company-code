@@ -119,30 +119,34 @@ No new programs, but starting with this issue they began re-printing older games
 
 ## V4N1 [July 1975](https://archive.org/details/1975-07-peoples-computer-company)
 
-- p. 10 tinysin - version of biosin for the PDP-8 based EduSystem 20
+- p. 10 tinysin - "crunched" version of biosin for the PDP-8 based EduSystem 20
 
-## V4N2 September 1975
+## V4N2 [September 1975](https://archive.org/details/1975-09-peoples-computer-company)
 
-- p. 06 Kingdom by Todd Voros and Lee Schneider. BASIC listing, strategies, sample runs.
-- p. 10 Chomp for BASIC (Peter Lynn Sessions) & Chomp for 8008 (Phil Mork)
-- p. 11 Witchy by Old Soldier. BASIC listing and sample run.
-- p. 24 LIFE on the Altair by Adolph - p. Stumpf. Conway's LIFE.
+- p. 06 kingdom - hammurabi type game
+- p. 10 chomp - identical to v1n3, not duplicated
+- p. 10 chomp - in 8008 assembler, not copied
+- p. 11 witchy - name guessing game, PDP-8 dialect
+- p. 20 jotto - word guessing game, demonstration of Altair BASIC
+- p. 21 encrypt - demonstrates RND in Altair
+- p. 22 link - demonstrates how to link programs together in Altair BASIC
+- p. 24 life - in 8080 assembler for the Altair, not copied
 
-## V4N3 November 1975
+## V4N3 [November 1975]](https://archive.org/details/1975-11-peoples-computer-company)
 
-- p. 06 Number in Assembly Language for the 8080 (Bernard Greening)
-- p. 09 Talking Calculator game by Sivasailam Thiagarajan and Harold D. Stolovitch)
-- p. 21 Crossword Puzzle (Ron Santore)
+- p .04 number - new version, several modified versions demonstrating various features
+- p. 06 number - in 8080 assembler for the Altair, not copied
+- p. 11 squares - prints a list of squares and cubes in Tiny BASIC, this dialect uses colon for equals and ampersand for plus, due to it being written for BAUDOT
+- p. 11 factor - another Tiny BASIC program, which factors a number
+- p. 12 corrections for Tiny BASIC in 8080 assembler, not copied
 
-## V4N4 January 1976
+## V4N4 [January 1976](https://archive.org/details/1976-01-peoples-computer-company)
 
-- p. 08 Diddle for a Small Altair 8800 by Stan Skoglund. ML listing and sample run.
-- p. 13 A Game Based on ... STAR TREK (from WTDAYHR)
-- p. 17 STTR1 Listing (Mike Mayfield)
-- p. 20 MOTIE by Mac Oglesby. BASIC listing and sample run.
-- p. 22 RESCUE by Mac Oglesby. BASIC listing and sample run.
-- p. 25 Flying Buffalo by Rick Loomis. Descriptions of play-by-mail games and
-tabletop games such as Dungeons & Dragons
+- p. 08 diddle - 8080 assembler, not copied
+- p. 17 sttr1 - the original Star Trek in HP BASIC
+- p. 20 motie - Hare and Hounds set in a sci-fi setting
+- p. 22 rescue - rescue a stranded starship
+- p. 24 number - another version of number, continuing from the previous issue
 
 ## V4N5 March-April 1976
 
