@@ -3,7 +3,7 @@ BASIC programs from the People's Computer Company
 
 This folder contains the programs found in the People's Computer Company magazines. Only complete programs are included, short example code and snippets, like those in the Programmer's Toolbox columns, are not included.
 
-Most of the programs that appeared in PCC, especially in earlier editions, were in the HP 2100 dialect. These can be run using [RetroBASIC](https://github.com/maurymarkowitz/RetroBASIC). There are a small number in various  DEC dialects, which also run in RetroBASIC. A number are for the Datapoint 2200, which is so non-standard that nothing else will run it. There is also one SNOBOL program and two in PILOT. The few assembly programs have not been included.
+Most of the programs that appeared in PCC, especially in earlier editions, were in the HP 2100 dialect. These can be run using [RetroBASIC](https://github.com/maurymarkowitz/RetroBASIC). There are a small number in various DEC dialects, mostly BASIC-8, which also run in RetroBASIC. A small number are for the Datapoint 2200, which is so non-standard that nothing will run it. There is also one SNOBOL program and two in PILOT. The few assembly programs have not been included.
 
 The programs are copied as close to their original format as possible, including odd whitespace and the use of square brackets for arrays. There are some things that will look like whitespace typos, but these are in the original code. The print quality of the magazine was highly variable, which may have introduced subtle bugs. This is further confused by the printer font which used a bar across the O instead of 0 as is common today, which then switched that after a couple of issues. There are 1's that look like both L and I, and many issues related to the low quality printing of the newsletter itself.
 
@@ -75,7 +75,7 @@ No programs in this issue.
 ## V2N6 [July 1974](https://archive.org/details/1974-07-peoples-computer-company)
 
 - p. 8 haiku - makes random haiku poems, in Datapoint 2200 dialect
-- p. 19 poetry, in SNOBOL
+- p. 19 poetry - in SNOBOL
 - p. 27 paintbrush - randomly prints a chosen character on a printer to make a larger image, Datapoint
 - p. 27 landscape - draws a simple landscape, Datapoint
 
@@ -132,7 +132,7 @@ No new programs, but starting with this issue they began re-printing older games
 - p. 22 link - demonstrates how to link programs together in Altair BASIC
 - p. 24 life - in 8080 assembler for the Altair, not copied
 
-## V4N3 [November 1975]](https://archive.org/details/1975-11-peoples-computer-company)
+## V4N3 [November 1975](https://archive.org/details/1975-11-peoples-computer-company)
 
 - p .04 number - new version, several modified versions demonstrating various features
 - p. 06 number - in 8080 assembler for the Altair, not copied
