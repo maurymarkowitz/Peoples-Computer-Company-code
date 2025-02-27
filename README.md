@@ -144,19 +144,14 @@ No new programs, but starting with this issue they began re-printing older games
 
 - p. 08 diddle - 8080 assembler, not copied
 - p. 17 sttr1 - the original Star Trek in HP BASIC
-- p. 20 motie - Hare and Hounds set in a sci-fi setting
-- p. 22 rescue - rescue a stranded starship
+- p. 20 motie - Hare and Hounds set in a sci-fi setting, Dartmouth BASIC
+- p. 22 rescue - rescue a stranded starship, Dartmouth BASIC
 - p. 24 number - another version of number, continuing from the previous issue
 
-## V4N5 March-April 1976
+## V4N5 [March-April 1976](https://archive.org/details/1976-04-peoples-computer-company)
 
-- p. 02 Star Trek - a 2 TTY Game by Philip Tubb (description)
-- p. 05 Games with the Pocket Calculator by Sivasailam Thiagarajn & Harold D.
-Stolovitch
-- p. 06 Huntington Computer Project by Lud Braun & Mike Visich
-- p. 08 DODGEM by Mac Oglesby. BASIC listing and sample run.
-- p. 11 Good Gaming. Descriptions of role-playing and board games: Dungeons & Dragons, Tunnels & Trolls, Stellar Conquest, and Empire of the Petal Throne
-- p. 14 SQUARE by Mac Oglesby. BASIC listing and sample run.
+- p. 08 dodgem - move your pieces across the board while your opponent does the same, Dartmouth BASIC
+- p. 14 square - take turns moving on a board and try to make a square, Dartmouth BASIC
 
 ## V4N6 May 1976
 
