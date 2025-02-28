@@ -146,7 +146,7 @@ No new programs, but starting with this issue they began re-printing older games
 - p. 17 sttr1 - the original Star Trek in HP BASIC
 - p. 20 motie - Hare and Hounds set in a sci-fi setting, Dartmouth BASIC
 - p. 22 rescue - rescue a stranded starship, Dartmouth BASIC
-- p. 24 number - another version of number, continuing from the previous issue
+- p. 24 number6 - another version of number, continuing from the previous issue
 
 ## V4N5 [March-April 1976](https://archive.org/details/1976-04-peoples-computer-company)
 
