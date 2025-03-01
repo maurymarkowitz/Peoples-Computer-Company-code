@@ -158,7 +158,7 @@ No new programs, but starting with this issue they began re-printing older games
 - p. 16 demo - another factoring program, designed to be hard to read
 - p. 16 factors - same program, but much easier to read, Dartmouth BASIC
 - p. 17 pounce - cat jumps over a mouse, Dartmouth BASIC
-- p. 20 stacks - from V1N3, not copied
+- p. 20 stacks - from V1N3
 
 ## V5N1 July 1976
 
