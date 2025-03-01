@@ -153,10 +153,12 @@ No new programs, but starting with this issue they began re-printing older games
 - p. 08 dodgem - move your pieces across the board while your opponent does the same, Dartmouth BASIC
 - p. 14 square - take turns moving on a board and try to make a square, Dartmouth BASIC
 
-## V4N6 May 1976
+## V4N6 [May 1976](https://archive.org/details/1976-05-peoples-computer-company)
 
-- p. 06 Star Trek by Bill Crow. Description of his game.
-- p. 17 POUNCE by Mac Oglesby. BASIC listing and sample run.
+- p. 16 demo - another factoring program, designed to be hard to read
+- p. 16 factors - same program, but much easier to read, Dartmouth BASIC
+- p. 17 pounce - cat jumps over a mouse, Dartmouth BASIC
+- p. 20 stacks - from V1N3, not copied
 
 ## V5N1 July 1976
 
