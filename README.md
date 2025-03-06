@@ -144,38 +144,41 @@ No new programs, but starting with this issue they began re-printing older games
 
 - p. 08 diddle - 8080 assembler, not copied
 - p. 17 sttr1 - the original Star Trek in HP BASIC
-- p. 20 motie - Hare and Hounds set in a sci-fi setting, Dartmouth BASIC
-- p. 22 rescue - rescue a stranded starship, Dartmouth BASIC
+- p. 20 motie - Hare and Hounds set in a sci-fi setting, Dartmouth BASIC by Mac Oglesby
+- p. 22 rescue - rescue a stranded starship, Dartmouth BASIC by Mac Oglesby
 - p. 24 number6 - another version of number, continuing from the previous issue
 
 ## V4N5 [March-April 1976](https://archive.org/details/1976-04-peoples-computer-company)
 
-- p. 08 dodgem - move your pieces across the board while your opponent does the same, Dartmouth BASIC
-- p. 14 square - take turns moving on a board and try to make a square, Dartmouth BASIC
+- p. 08 dodgem - move your pieces across the board while your opponent does the same, Dartmouth BASIC by Mac Oglesby
+- p. 14 square - take turns moving on a board and try to make a square, Dartmouth BASIC by Mac Oglesby
 
 ## V4N6 [May 1976](https://archive.org/details/1976-05-peoples-computer-company)
 
-- p. 16 demo - another factoring program, designed to be hard to read
-- p. 16 factors - same program, but much easier to read, Dartmouth BASIC
-- p. 17 pounce - cat jumps over a mouse, Dartmouth BASIC
-- p. 20 stacks - from V1N3
+- p. 16 demo - another factoring program, designed to be hard to read by Mac Oglesby
+- p. 16 factors - same program, but much easier to read, Dartmouth BASIC by Mac Oglesby
+- p. 17 pounce - cat jumps over a mouse, Dartmouth BASIC by Mac Oglesby
+- p. 20 stacks - from V1N3, not duplicated
 
-## V5N1 July 1976
+## V5N1 [July 1976](https://archive.org/details/1976-07-peoples-computer-company)
 
-- p. 20 SINNERS by Mac Oglesby. BASIC listing and sample run.
-- p. 23 Tiny Trek: Trek for Your 8K Altair
-- p. 31 A Musical Number Guessing Game by Kurt Inman (machine language Altair
+- p. 6 overtones - generates a list of overtone frequencies
+- p. 7 scales - generates the frequencies for any musical scale
+- p. 7 harmonics - lists the harmonics for a series of tones
+- p. 8 melody - generates a random melody
+- p. 21 sinners - player attempts to avoid capture, listing incomplete, not copied
+- p. 23 tinytrek - trek for the 8K Altair, Tiny BASIC
+- p. 31 musical number guessing game - Altair assembler, not copied
 8800)
+- p. 36 order - from V1N5, not duplicated
 
-## V5N2 September 1976
+## V5N2 [September 1976](https://archive.org/details/1976-09-peoples-computer-company/)
 
-- p. 02 Star Trek (six pages of stuff sent by readers, edited by Mellow Flash)
-- p. 08 But It's Fun, But It's Educational: Computer Games in the Classroom by Joanne Koltnow Verplank
-- p. 16 PLANETS by Mac Oglesby. BASIC listing and sample run.
-- p. 18 Journey to the Center of the Earth by Andrew A. Aronson. BASIC listing and sample run.
-- p. 20 Dungeons & Dragons by Steve Jackson. Description, information, ...
-- p. 30 Crossword Puzzle by Frank Armbruster
-- p. 31 Hats by Frank Armbruster. BASIC listing and sample run.
+Poor scan quality on archive.org.
+
+- p. 16 planets - go on a tour of the planets, Dartmouth BASIC by Mac Oglesby
+- p. 18 journey - build a custom earth layer by layer, original text unreadable, not duplicated
+- p. 31 hats - decoding game, original text unreadable, not duplicated
 
 ## V5N3 November-December 1976
 
