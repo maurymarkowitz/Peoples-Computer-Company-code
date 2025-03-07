@@ -166,7 +166,7 @@ No new programs, but starting with this issue they began re-printing older games
 - p. 7 scales - generates the frequencies for any musical scale
 - p. 7 harmonics - lists the harmonics for a series of tones
 - p. 8 melody - generates a random melody
-- p. 21 sinners - player attempts to avoid capture, listing incomplete, not copied
+- p. 21 sinners - player attempts to avoid capture, Dartmouth BASIC by Mac Oglesby
 - p. 23 tinytrek - trek for the 8K Altair, Tiny BASIC
 - p. 31 musical number guessing game - Altair assembler, not copied
 8800)
