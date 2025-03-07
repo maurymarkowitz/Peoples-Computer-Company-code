@@ -1,9 +1,9 @@
-BASIC programs from the People's Computer Company
-=================================================
+Programs from the People's Computer Company
+===========================================
 
 This folder contains the programs found in the People's Computer Company magazines. Only complete programs are included, short example code and snippets, like those in the Programmer's Toolbox columns, are not included.
 
-Most of the programs that appeared in PCC, especially in earlier editions, were in the HP 2100 dialect. These can be run using [RetroBASIC](https://github.com/maurymarkowitz/RetroBASIC). There are a small number in various DEC dialects, mostly BASIC-8, which also run in RetroBASIC. A small number are for the Datapoint 2200, which is so non-standard that nothing will run it. There is also one SNOBOL program and two in PILOT. The few assembly programs have not been included.
+Most of the programs that appeared in PCC, especially in earlier editions, were in the HP 2100 dialect. These can be run using [RetroBASIC](https://github.com/maurymarkowitz/RetroBASIC). There are a small number in various DEC dialects, mostly BASIC-8, which also run in RetroBASIC. Two were for the Datapoint 2200, which is so non-standard that nothing will run it. There is also one SNOBOL program and several in PILOT. The few assembly programs have not been included.
 
 The programs are copied as close to their original format as possible, including odd whitespace and the use of square brackets for arrays. There are some things that will look like whitespace typos, but these are in the original code. The print quality of the magazine was highly variable, which may have introduced subtle bugs. This is further confused by the printer font which used a bar across the O instead of 0 as is common today, which then switched that after a couple of issues. There are 1's that look like both L and I, and many issues related to the low quality printing of the newsletter itself.
 
@@ -169,10 +169,9 @@ No new programs, but starting with this issue they began re-printing older games
 - p. 21 sinners - player attempts to avoid capture, Dartmouth BASIC by Mac Oglesby
 - p. 23 tinytrek - trek for the 8K Altair, Tiny BASIC
 - p. 31 musical number guessing game - Altair assembler, not copied
-8800)
 - p. 36 order - from V1N5, not duplicated
 
-## V5N2 [September 1976](https://archive.org/details/1976-09-peoples-computer-company/)
+## V5N2 [September 1976](https://archive.org/details/1976-09-peoples-computer-company)
 
 Poor scan quality on archive.org.
 
@@ -180,23 +179,30 @@ Poor scan quality on archive.org.
 - p. 18 journey - build a custom earth layer by layer, original text unreadable, not duplicated
 - p. 31 hats - decoding game, original text unreadable, not duplicated
 
-## V5N3 November-December 1976
+## V5N3 [November-December 1976](https://archive.org/details/1976-12-peoples-computer-company)
 
-- p. 08 Story, Snake, and PACK1 by Joanne Koltnow Verplank (games at CCC)
-- p. 13 Games for You to Program by the Dragon (variations of Number)
-- p. 16 FROGS by Mac Ogelsby. BASIC listing and sample run.
-- p. 32 Crossword Puzzle by Frank Armbruster
+- p. 08 story - a madlibs type story creator, RSTS BASIC
+- p. 09 snake - hangman type game, RSTS BASIC
+- p. 16 frogs - Dartmouth BASIC by Mac Oglesby
 
-## V5N4 January-February 1977
+- p. 28 temper
+- p. 29 ???
 
-- p. 17 reverse - reprinted from V1N5, source in that folder
-- p. 18 Games for You to Program by the Dragon. (variations of Reverse)
-- p. 26 Mastermind - a Game of Logic by Jesse Heines & Gay Rosser. BASIC listing and sample run.
+- p. 37 another variation on number
 
-## V5N5 March-April 1977 Last issue as PCC newspaper
+- p. 43 hats and journey reprinted from V5N2, not duplicated
 
-- p. 34 Games for You to Program by the Dragon (animated Reverse)
-- p. 35 The Yes-No Game by Carl Main. BASIC listing and sample run.
-- p. 36 Mine 8 by Doug Felt. Description.
-- p. 37 Simulations: the World of Selling by MECC. Descriptions of games.
-- p. 38 ZOT by Marc LeBrun. BASIC listing and sample run.
+
+## V5N4 [January-February 1977](https://archive.org/details/1977-02-peoples-computer-company)
+
+- p. 17 reverse - reprinted from V1N5, not duplicated
+- p. 26 mastermind - a Game of Logic by Jesse Heines & Gay Rosser. BASIC listing and sample run.
+
+## V5N5 [March-April 1977](https://archive.org/details/1977-04-peoples-computer-company)
+
+Last issue as PCC newspaper, it becomes the "People's Computers" magazine after this point.
+
+- p. 3 goldilocks - story game in PILOT
+- p. 29 multiply - sample math drill program
+- p. 35 yesno - number guessing with comparison symbols
+- p. 38 zot - similar to cookie
