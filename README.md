@@ -81,7 +81,7 @@ No programs in this issue.
 
 ## V3N1 [September 1974](https://archive.org/details/1974-09-peoples-computer-company)
 
-No new programs, but starting with this issue they began re-printing older games. These contain modifications, relatively minor in many cases and often limited to renumbering and REM statements, but enough to justify putting the new versions here.
+No new programs, but starting with this issue they began re-printing older games. These contain modifications, relatively minor in many cases and often limited to renumbering and REM statements, but enough to justify putting the new versions here. Later issues have no changes at all and those are not duplicated.
 
 - p. 24 number - from V1N1
 - p. 24 bagels - from V1N2
@@ -144,20 +144,20 @@ No new programs, but starting with this issue they began re-printing older games
 
 - p. 08 diddle - 8080 assembler, not copied
 - p. 17 sttr1 - the original Star Trek in HP BASIC
-- p. 20 motie - Hare and Hounds set in a sci-fi setting, Dartmouth BASIC by Mac Oglesby
-- p. 22 rescue - rescue a stranded starship, Dartmouth BASIC by Mac Oglesby
+- p. 20 motie - Hare and Hounds set in a sci-fi setting, Dartmouth BASIC
+- p. 22 rescue - rescue a stranded starship, Dartmouth BASIC
 - p. 24 number6 - another version of number, continuing from the previous issue
 
 ## V4N5 [March-April 1976](https://archive.org/details/1976-04-peoples-computer-company)
 
-- p. 08 dodgem - move your pieces across the board while your opponent does the same, Dartmouth BASIC by Mac Oglesby
-- p. 14 square - take turns moving on a board and try to make a square, Dartmouth BASIC by Mac Oglesby
+- p. 08 dodgem - mini chinese checkers, Dartmouth BASIC
+- p. 14 square - take turns moving on a board and try to make a square, Dartmouth BASIC
 
 ## V4N6 [May 1976](https://archive.org/details/1976-05-peoples-computer-company)
 
-- p. 16 demo - another factoring program, designed to be hard to read by Mac Oglesby
-- p. 16 factors - same program, but much easier to read, Dartmouth BASIC by Mac Oglesby
-- p. 17 pounce - cat jumps over a mouse, Dartmouth BASIC by Mac Oglesby
+- p. 16 demo - another factoring program, designed to be hard to read
+- p. 16 factors - same program, but much easier to read, Dartmouth BASIC
+- p. 17 pounce - cat jumps over a mouse, Dartmouth BASIC
 - p. 20 stacks - from V1N3, not duplicated
 
 ## V5N1 [July 1976](https://archive.org/details/1976-07-peoples-computer-company)
@@ -166,24 +166,22 @@ No new programs, but starting with this issue they began re-printing older games
 - p. 7 scales - generates the frequencies for any musical scale
 - p. 7 harmonics - lists the harmonics for a series of tones
 - p. 8 melody - generates a random melody
-- p. 21 sinners - player attempts to avoid capture, Dartmouth BASIC by Mac Oglesby
+- p. 21 sinners - player attempts to avoid capture, Dartmouth BASIC
 - p. 23 tinytrek - trek for the 8K Altair, Tiny BASIC
 - p. 31 musical number guessing game - Altair assembler, not copied
 - p. 36 order - from V1N5, not duplicated
 
 ## V5N2 [September 1976](https://archive.org/details/1976-09-peoples-computer-company)
 
-Poor scan quality on archive.org.
-
-- p. 16 planets - go on a tour of the planets, Dartmouth BASIC by Mac Oglesby
-- p. 18 journey - build a custom earth layer by layer, original text unreadable, not duplicated
-- p. 31 hats - decoding game, original text unreadable, not duplicated
+- p. 16 planets - go on a tour of the planets, Dartmouth BASIC
+- p. 18 journey - build a custom earth layer by layer, SDS BASIC
+- p. 31 hats - guess the equation - unknown dialect, possibly SUPER-BASIC
 
 ## V5N3 [November-December 1976](https://archive.org/details/1976-12-peoples-computer-company)
 
 - p. 08 story - a madlibs type story creator, RSTS BASIC
 - p. 09 snake - hangman type game, RSTS BASIC
-- p. 16 frogs - Dartmouth BASIC by Mac Oglesby
+- p. 16 frogs - Dartmouth BASIC
 
 - p. 28 temper
 - p. 29 ???
