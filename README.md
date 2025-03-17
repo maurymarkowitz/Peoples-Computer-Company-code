@@ -185,15 +185,12 @@ No new programs, but starting with this issue they began re-printing older games
 - p. 28 tempered - from V1N4, not duplicated
 - p. 29 seventone - from V1N4, not duplicated
 - p. 37 basejump - number guessing game
-
-- p. 37 another variation on number
-
 - p. 43 hats and journey reprinted from V5N2, not duplicated
-
 
 ## V5N4 [January-February 1977](https://archive.org/details/1977-02-peoples-computer-company)
 
 - p. 17 reverse - reprinted from V1N5, not duplicated
+- p. 22 age - converts age in years to minutes, example of Tiny PILOT
 - p. 26 mastermind - a Game of Logic by Jesse Heines & Gay Rosser. BASIC listing and sample run.
 
 ## V5N5 [March-April 1977](https://archive.org/details/1977-04-peoples-computer-company)
