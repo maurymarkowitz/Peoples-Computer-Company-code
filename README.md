@@ -198,6 +198,6 @@ No new programs, but starting with this issue they began re-printing older games
 Last issue as PCC newspaper, it becomes the "People's Computers" magazine after this point.
 
 - p. 3 goldilocks - story game in PILOT
-- p. 29 multiply - sample math drill program
+- p. 29 multiply - sample math drill program in Tiny BASIC
 - p. 35 yesno - number guessing with comparison symbols
 - p. 38 zot - similar to cookie
