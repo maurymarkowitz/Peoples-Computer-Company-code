@@ -182,9 +182,9 @@ No new programs, but starting with this issue they began re-printing older games
 - p. 08 story - a madlibs type story creator, RSTS BASIC
 - p. 09 snake - hangman type game, RSTS BASIC
 - p. 16 frogs - Dartmouth BASIC
-
-- p. 28 temper
-- p. 29 ???
+- p. 28 tempered - from V1N4, not duplicated
+- p. 29 seventone - from V1N4, not duplicated
+- p. 37 basejump - number guessing game
 
 - p. 37 another variation on number
 
