@@ -125,7 +125,7 @@ No new programs, but starting with this issue they began re-printing older games
 
 - p. 06 kingdom - hammurabi type game
 - p. 10 chomp - identical to v1n3, not duplicated
-- p. 10 chomp - in 8008 assembler, not copied
+- p. 10 chomp - in 8008 assembler for the Mark-8, not copied
 - p. 11 witchy - name guessing game, PDP-8 dialect
 - p. 20 jotto - word guessing game, demonstration of Altair BASIC
 - p. 21 encrypt - demonstrates RND in Altair
@@ -134,19 +134,23 @@ No new programs, but starting with this issue they began re-printing older games
 
 ## V4N3 [November 1975](https://archive.org/details/1975-11-peoples-computer-company)
 
-- p .04 number - new version, several modified versions demonstrating various features
+- p .04 num1 - version of number in HP BASIC
+- p. 05 num2 - demonstrates the use of the ON statement to simplify the code
+- p. 05 num3edu - version of num2 for PDP-8 based EduSystem 20
+- p. 05 num3alt - version of num2 for Altair BASIC (Microsoft)
+- p. 05 num4 - another version for Altair
 - p. 06 number - in 8080 assembler for the Altair, not copied
 - p. 11 squares - prints a list of squares and cubes in Tiny BASIC, this dialect uses colon for equals and ampersand for plus, due to it being written for BAUDOT
 - p. 11 factor - another Tiny BASIC program, which factors a number
-- p. 12 corrections for Tiny BASIC in 8080 assembler, not copied
+- p. 12 corrections for Tiny BASIC in 8080 assembler for the Altair, not copied
 
 ## V4N4 [January 1976](https://archive.org/details/1976-01-peoples-computer-company)
 
-- p. 08 diddle - 8080 assembler, not copied
+- p. 08 diddle - 8080 assembler for the Altair, not copied
 - p. 17 sttr1 - the original Star Trek in HP BASIC
 - p. 20 motie - Hare and Hounds set in a sci-fi setting, Dartmouth BASIC
 - p. 22 rescue - rescue a stranded starship, Dartmouth BASIC
-- p. 24 number6 - another version of number, continuing from the previous issue
+- p. 24 num4 - explanation of the num4 code from V4N3, not duplicated
 
 ## V4N5 [March-April 1976](https://archive.org/details/1976-04-peoples-computer-company)
 
